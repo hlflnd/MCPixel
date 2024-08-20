@@ -1,0 +1,322 @@
+[13:32:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:32:33] [ServerMain/INFO]: Loaded 1175 recipes
+[13:32:34] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[13:32:34] [Server thread/INFO]: Loading properties
+[13:32:34] [Server thread/INFO]: This server is running CraftBukkit version 4195-Spigot-fcd94e2-f057cf4 (MC: 1.20.6) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[13:32:35] [Server thread/INFO]: Debug logging is disabled
+[13:32:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:32:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:32:35] [Server thread/INFO]: Default game type: SURVIVAL
+[13:32:35] [Server thread/INFO]: Generating keypair
+[13:32:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:32:36] [Server thread/INFO]: Using default channel type
+[13:32:36] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[13:32:45] [Server thread/WARN]: Legacy plugin RaspberryJuice v1.12.1 does not specify an api-version.
+[13:32:45] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.3.1
+[13:32:45] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.12.1
+[13:32:45] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.3.1
+[13:32:46] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.6[32;1m.[0;39m[m
+[13:32:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:32:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:32:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:32:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:32:47] [Server thread/INFO]: Preparing level "world"
+[13:32:47] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:32:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[13:32:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:32:47] [Server thread/INFO]: Simulation Distance: 10
+[13:32:47] [Server thread/INFO]: View Distance: 10
+[13:32:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:32:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:32:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:32:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:32:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:32:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:32:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[13:32:47] [Server thread/INFO]: Mob Spawn Range: 6
+[13:32:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[13:32:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:32:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Max TNT Explosions: 100
+[13:32:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:32:47] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:32:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[13:32:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:32:47] [Server thread/INFO]: Simulation Distance: 10
+[13:32:47] [Server thread/INFO]: View Distance: 10
+[13:32:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:32:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:32:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:32:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:32:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:32:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:32:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[13:32:47] [Server thread/INFO]: Mob Spawn Range: 6
+[13:32:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[13:32:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:32:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[13:32:47] [Server thread/INFO]: Max TNT Explosions: 100
+[13:32:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:32:48] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:32:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[13:32:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:32:48] [Server thread/INFO]: Simulation Distance: 10
+[13:32:48] [Server thread/INFO]: View Distance: 10
+[13:32:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:32:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:32:48] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:32:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:32:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:32:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:32:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[13:32:48] [Server thread/INFO]: Mob Spawn Range: 6
+[13:32:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[13:32:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:32:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[13:32:48] [Server thread/INFO]: Max TNT Explosions: 100
+[13:32:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:32:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:32:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:32:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:32:49] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:32:49] [Server thread/INFO]: Time elapsed: 1326 ms
+[13:32:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:32:50] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[13:32:50] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:32:50] [Server thread/INFO]: Time elapsed: 714 ms
+[13:32:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:32:50] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[13:32:50] [Worker-Main-9/INFO]: Preparing spawn area: 26%
+[13:32:50] [Server thread/INFO]: Time elapsed: 536 ms
+[13:32:50] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.12.1
+[13:32:50] [Server thread/INFO]: [RaspberryJuice] Using host:port - 0.0.0.0:4711
+[13:32:50] [Server thread/INFO]: [RaspberryJuice] Using RELATIVE locations
+[13:32:50] [Server thread/INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[13:32:50] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[13:32:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:32:50] [Server thread/INFO]: Done (3.554s)! For help, type "help"
+[13:32:51] [Craft Scheduler Thread - 1/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get release info from api.github.com. 
+ If this message is repeated a lot, please see https://skinsrestorer.net/firewall[0;39m
+[13:32:52] [Craft Scheduler Thread - 2/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mError getting Eclipse UUID[0;39m
+[13:32:53] [Craft Scheduler Thread - 2/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mError getting Eclipse Profile[0;39m
+[13:33:14] [User Authenticator #1/INFO]: UUID of player hlflnd is d643a42c-b0cc-395d-9e35-249ef83cccd3
+[13:33:15] [Server thread/INFO]: Welcome hlflnd[m
+[13:33:15] [Server thread/INFO]: hlflnd joined the game
+[13:33:15] [Server thread/INFO]: hlflnd[/127.0.0.1:62210] logged in with entity id 9 at ([world]1.2476207329332458E7, 104.0, 1246789.699999988)
+[13:33:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4078ms or 81 ticks behind
+[13:33:24] [Server thread/INFO]: hlflnd issued server command: /gamemode creative
+[13:33:24] [Server thread/INFO]: [hlflnd: Set own game mode to Creative Mode]
+[13:33:26] [Server thread/INFO]: hlflnd issued server command: /clear
+[13:33:26] [Server thread/INFO]: [hlflnd: Removed 569 item(s) from player hlflnd]
+[13:33:32] [Server thread/INFO]: hlflnd issued server command: /weather clear
+[13:33:32] [Server thread/INFO]: [hlflnd: Set the weather to clear]
+[13:34:12] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62222.
+[13:34:12] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
+[13:34:12] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
+[13:34:12] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62222.
+[13:34:57] [Craft Scheduler Thread - 3/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mFailed to get recommended skins: Connect timed out[0;39m
+[13:35:16] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62229.
+[13:35:16] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
+[13:35:16] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
+[13:35:16] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62229.
+[13:36:23] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62248.
+[13:36:23] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
+[13:36:23] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
+[13:36:23] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62248.
+[13:37:47] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62262.
+[13:37:47] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
+[13:37:47] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
+[13:37:48] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 24600 to next tick
+[13:37:48] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 15600 to next tick
+[13:37:49] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 6600 to next tick
+[13:37:49] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62262.
+[13:38:10] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62267.
+[13:38:10] [Thread-20/INFO]: [RaspberryJuice] Starting output thread!
+[13:38:10] [Thread-19/INFO]: [RaspberryJuice] Starting input thread
+[13:38:10] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62267.
+[13:38:44] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62274.
+[13:38:44] [Thread-22/INFO]: [RaspberryJuice] Starting output thread!
+[13:38:44] [Thread-21/INFO]: [RaspberryJuice] Starting input thread
+[13:38:44] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 13506 to next tick
+[13:38:45] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 15600 to next tick
+[13:38:45] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 6600 to next tick
+[13:38:45] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62274.
+[13:39:42] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62279.
+[13:39:42] [Thread-23/INFO]: [RaspberryJuice] Starting input thread
+[13:39:42] [Thread-24/INFO]: [RaspberryJuice] Starting output thread!
+[13:39:43] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62279.
+[13:41:51] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62326.
+[13:41:51] [Thread-28/INFO]: [RaspberryJuice] Starting output thread!
+[13:41:51] [Thread-27/INFO]: [RaspberryJuice] Starting input thread
+[13:41:52] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 5089 to next tick
+[13:41:52] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 1727 to next tick
+[13:41:52] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 1229 to next tick
+[13:41:52] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62326.
+[13:42:30] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62346.
+[13:42:30] [Thread-30/INFO]: [RaspberryJuice] Starting input thread
+[13:42:30] [Thread-31/INFO]: [RaspberryJuice] Starting output thread!
+[13:42:30] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 2198 to next tick
+[13:42:31] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 3530 to next tick
+[13:42:31] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62346.
+[13:42:48] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62352.
+[13:42:48] [Thread-33/INFO]: [RaspberryJuice] Starting output thread!
+[13:42:48] [Thread-32/INFO]: [RaspberryJuice] Starting input thread
+[13:42:48] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 13714 to next tick
+[13:42:48] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 7403 to next tick
+[13:42:48] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 550 to next tick
+[13:42:48] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62352.
+[13:45:39] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62408.
+[13:45:39] [Thread-36/INFO]: [RaspberryJuice] Starting output thread!
+[13:45:39] [Thread-35/INFO]: [RaspberryJuice] Starting input thread
+[13:45:40] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 18330 to next tick
+[13:45:40] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 12791 to next tick
+[13:45:40] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 6135 to next tick
+[13:45:40] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 2284 to next tick
+[13:45:41] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62408.
+[13:47:59] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62423.
+[13:47:59] [Thread-41/INFO]: [RaspberryJuice] Starting output thread!
+[13:47:59] [Thread-40/INFO]: [RaspberryJuice] Starting input thread
+[13:48:00] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 8337 to next tick
+[13:48:00] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 6048 to next tick
+[13:48:01] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62423.
+[13:56:30] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62740.
+[13:56:30] [Thread-46/INFO]: [RaspberryJuice] Starting output thread!
+[13:56:30] [Thread-45/INFO]: [RaspberryJuice] Starting input thread
+[13:56:31] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 10991 to next tick
+[13:56:31] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 1991 to next tick
+[13:56:31] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62740.
+[13:57:53] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:62767.
+[13:57:53] [Thread-48/INFO]: [RaspberryJuice] Starting output thread!
+[13:57:53] [Thread-47/INFO]: [RaspberryJuice] Starting input thread
+[13:57:54] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 10894 to next tick
+[13:57:54] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 11101 to next tick
+[13:57:54] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 42295 to next tick
+[13:57:55] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 33696 to next tick
+[13:57:55] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 24696 to next tick
+[13:57:55] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 15696 to next tick
+[13:57:56] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 6696 to next tick
+[13:57:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3169ms or 63 ticks behind
+[13:57:57] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:62767.
+[14:41:17] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64276.
+[14:41:17] [Thread-63/INFO]: [RaspberryJuice] Starting output thread!
+[14:41:17] [Thread-62/INFO]: [RaspberryJuice] Starting input thread
+[14:41:17] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64276.
+[14:44:17] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64326.
+[14:44:17] [Thread-66/INFO]: [RaspberryJuice] Starting input thread
+[14:44:17] [Thread-67/INFO]: [RaspberryJuice] Starting output thread!
+[14:44:17] [Thread-66/INFO]: [RaspberryJuice] Connection reset
+[14:44:17] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64326.
+[14:51:32] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64731.
+[14:51:32] [Thread-71/INFO]: [RaspberryJuice] Starting input thread
+[14:51:32] [Thread-72/INFO]: [RaspberryJuice] Starting output thread!
+[14:51:35] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 10581 to next tick
+[14:51:35] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 11266 to next tick
+[14:51:35] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 11518 to next tick
+[14:51:35] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 13796 to next tick
+[14:51:36] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 12976 to next tick
+[14:51:36] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 31118 to next tick
+[14:51:36] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 35775 to next tick
+[14:51:36] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 30336 to next tick
+[14:51:37] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 26023 to next tick
+[14:51:37] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 22565 to next tick
+[14:51:37] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 18074 to next tick
+[14:51:37] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 13013 to next tick
+[14:51:37] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 9397 to next tick
+[14:51:37] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 3795 to next tick
+[14:51:37] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64731.
+[14:54:37] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64803.
+[14:54:37] [Thread-75/INFO]: [RaspberryJuice] Starting input thread
+[14:54:37] [Thread-76/INFO]: [RaspberryJuice] Starting output thread!
+[14:54:38] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64803.
+[14:54:55] [Server thread/INFO]: hlflnd issued server command: /weather clear
+[14:54:55] [Server thread/INFO]: [hlflnd: Set the weather to clear]
+[14:55:00] [Server thread/INFO]: hlflnd issued server command: /gamemode spectator
+[14:55:00] [Server thread/INFO]: [hlflnd: Set own game mode to Spectator Mode]
+[14:55:23] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64816.
+[14:55:23] [Thread-79/INFO]: [RaspberryJuice] Starting input thread
+[14:55:23] [Thread-80/INFO]: [RaspberryJuice] Starting output thread!
+[14:55:24] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64816.
+[14:56:06] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64834.
+[14:56:06] [Thread-81/INFO]: [RaspberryJuice] Starting input thread
+[14:56:06] [Thread-82/INFO]: [RaspberryJuice] Starting output thread!
+[14:56:07] [Server thread/WARN]: [RaspberryJuice] Over 9000 commands were queued - deferring 82 to next tick
+[14:56:07] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64834.
+[14:56:25] [Server thread/INFO]: hlflnd issued server command: /gamemode creative
+[14:56:25] [Server thread/INFO]: [hlflnd: Set own game mode to Creative Mode]
+[14:56:39] [Server thread/INFO]: hlflnd issued server command: /effect give @s minecraft:speed 1000000 100
+[14:56:39] [Server thread/INFO]: [hlflnd: Applied effect Speed to hlflnd]
+[14:56:50] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64852.
+[14:56:50] [Thread-83/INFO]: [RaspberryJuice] Starting input thread
+[14:56:50] [Thread-84/INFO]: [RaspberryJuice] Starting output thread!
+[14:56:50] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64852.
+[15:00:16] [Server thread/INFO]: hlflnd lost connection: Disconnected
+[15:00:16] [Server thread/INFO]: hlflnd left the game
+[15:01:05] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[15:01:08] [Server thread/INFO]: Stopping the server
+[15:01:08] [Server thread/INFO]: Stopping server
+[15:01:08] [Server thread/INFO]: [RaspberryJuice] Disabling RaspberryJuice v1.12.1
+[15:01:08] [Server thread/INFO]: [RaspberryJuice] Raspberry Juice Stopped
+[15:01:08] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.3.1
+[15:01:08] [Server thread/INFO]: Saving players
+[15:01:08] [Server thread/INFO]: Saving worlds
+[15:01:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:01:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:01:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:01:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:01:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:01:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:01:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

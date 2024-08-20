@@ -1,0 +1,1 @@
+C:\Users\hlfln\AppData\Roaming\.minecraft\cache\java\java-runtime-delta\windows-x64\java-runtime-delta\bin\java.exe -jar spigot-1.20.6.jar --nogui

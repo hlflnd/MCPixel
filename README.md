@@ -1,4 +1,5 @@
---mc像素生成器：用于在Minecraft服务器中生成像素图--
+__mc像素生成器：用于在Minecraft服务器中生成像素图__
+
 首先，你得有个mc服务器，并安装raspberryjuice插件
 程序使用mcpi库：pip install mcpi
 

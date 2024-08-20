@@ -9,7 +9,7 @@
 模板文件夹，像素图所用方块的材质，文件名：ID-Data (Type-Subtype) 
 当update_JSON为True时，会读取其中内容并写入Colormap.json，否则直接读取
 
-*__pycache__*
+*_pycache_*
 不必理会
 
 *Colormap.json*

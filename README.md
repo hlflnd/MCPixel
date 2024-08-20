@@ -23,17 +23,23 @@
 
 *Main.py*
 文件import下面的部分可修改：
-{
+
 filename，程序使用的图片名称（带扩展名），图片放在Image_Folder文件夹中
+
 fillmode，填充方式:x-y,x-z,y-z三种，表示mc坐标轴
+
 player_name，使用该玩家的坐标
 
 update_JSON，是否刷新json文件，如不手动添加模板建议设为False
+
 time_monitor = True，是否监测程序运行时间
+
 wait = True，控制台输出是否等待，有无差距不大
 
 warning = 30000，图片像素高于该值时警告，像素过高可能导致服务器严重卡顿！
+
 compress_rate = 1.0，图片压缩初始比例，无需修改
+
 step = 0.05，每次压缩降低的比例，无需修改
-}
-用于连接mc并填充方块，使用时将166-173行的注释解除
+
+Main.py用于连接mc并填充方块，使用时将166-173行的注释解除
